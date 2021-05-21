@@ -4,7 +4,7 @@ Diabetic Retinopathy is a very common eye disease in people having diabetes. Thi
 
 # Project Structure
 
-. Blood Vessels.py: Contains code for blood vessels extraction from fundus images
+Blood Vessels.py: Contains code for blood vessels extraction from fundus images
 
 Exudates.py: Contains code for Exudates extraction from Fundus images
 
